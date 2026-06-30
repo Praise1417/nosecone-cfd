@@ -206,9 +206,8 @@ This project is part of a 12-month aerospace portfolio. Next phases:
 
 ## Author
 
-**Praise** — Aerospace Engineering Student, Lagos State University (LASU)  
-Editorial Lead & Lead Mechanical Design Engineer, Space Club LASU  
-Co-founder, AutoMark Systems
+**Omgbrumaye Praise** — Aerospace Engineering Student, Lagos State University (LASU)  
+Editorial Lead, Space Club LASU  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Praise1417-black?style=flat-square&logo=github)](https://github.com/Praise1417)
